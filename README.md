@@ -17,7 +17,7 @@ This emphasizes both your technical expertise and enthusiasm for AI and problem-
       🔗 For the production i have used Nginx, Docker, Linux Server , Cpanel and Plesk.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,angular,react,express,nodejs,postman,py,django,git,java,spring,gradle,maven,mysql,mongodb,postgres,elasticsearch,kafka,redis,linux,nginx,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
