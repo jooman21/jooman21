@@ -30,7 +30,9 @@ This emphasizes both your technical expertise and enthusiasm for AI and problem-
 
   - 🚀System Archtiectures like
      👌 Hexagonal Archticture
+    
      👌 Clean Archticture
+    
      👌 Event Driven Archticture
       
   - Exploring the ins and outs of Angualar  for dynamic front-end experiences.
