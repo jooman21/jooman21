@@ -8,12 +8,19 @@ This emphasizes both your technical expertise and enthusiasm for AI and problem-
  🚀 About Me
 
  🔭 I'm a degree holder in Electrical and Computer Engineering. 
+ 
  🦾 I have developed a web based system using the listed tech stacks 
+     
       🔗 Django
+      
       🔗 React.js
+      
       🔗 Node.Js
+      
       🔗 SpringBoot
+      
       🔗 Databases like Mysql, Postgres and MongoDB
+      
       🔗 For the production i have used Nginx, Docker, Linux Server , Cpanel and Plesk.
 
 ## Tech Stack
