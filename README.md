@@ -1,4 +1,4 @@
-# Hi, I'm <Yohannes Gezahegn> !👋
+# Hi, I'm <Yohannes_Gezahegn>!👋
 
 I am a dedicated Software Engineer with a passion for system development and a strong drive to solve real-world problems through domain deriven design and innovative technology solutions. My expertise lies in designing and building robust software systems that address complex challenges, while ensuring efficiency and scalability. 
 As a tech enthusiast, I am deeply interested in the rapidly evolving field of Artificial Intelligence (AI). I am constantly exploring its potential to transform industries, automate processes, and enhance decision-making. I strive to stay at the forefront of technological advancements, particularly in AI, where I see limitless possibilities for creating impactful solutions that can revolutionize industries and improve lives."
