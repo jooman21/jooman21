@@ -28,37 +28,24 @@ This emphasizes both your technical expertise and enthusiasm for AI and problem-
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
+  - 🚀System Archtiectures like
+     👌 Hexagonal Archticture
+     👌 Clean Archticture
+     👌 Event Driven Archticture
+      
+  - Exploring the ins and outs of Angualar  for dynamic front-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+  - Building server-side applications with SpringBoot, a powerful Java web framework.
+  - Diving into Mysql for efficient and scalable database management.
+  - Mybatis as a persistant framework
+  - I am currently utlizing Redis in tracking state changes, generating reports, and reverting back to the initial state.
 
 
-## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+ 📬 Get in Touch
 
+- Connect with me on [Linkdin](https://www.linkedin.com/in/yohannes-gezahegn-202971245/)
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
